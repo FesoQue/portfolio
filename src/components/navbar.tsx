@@ -38,15 +38,15 @@ export default function Navbar() {
         <DockIcon>
           <Tooltip>
             <TooltipTrigger asChild>
-              <Link
-                href="/blog"
+              <a
+                href="https://qwrites.vercel.app/"
                 className={cn(
                   buttonVariants({ variant: "ghost", size: "icon" }),
                   "size-12"
                 )}
               >
                 <NotebookIcon className="size-4" />
-              </Link>
+              </a>
             </TooltipTrigger>
             <TooltipContent>
               <p>Blog</p>
