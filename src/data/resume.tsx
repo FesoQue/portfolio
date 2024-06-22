@@ -1,8 +1,8 @@
 import { Icons } from "@/components/icons";
 
 export const DATA = {
-  name: "Qudus Adefeso",
-  initials: "QA",
+  name: "Adefeso Qudus",
+  initials: "AQ",
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
