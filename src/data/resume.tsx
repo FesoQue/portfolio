@@ -3,7 +3,7 @@ import { Icons } from "@/components/icons";
 export const DATA = {
   name: "Adefeso Qudus",
   initials: "AQ",
-  url: "https://dillion.io",
+  url: "https://qudus01.vercel.app/",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
