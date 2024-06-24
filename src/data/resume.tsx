@@ -168,6 +168,40 @@ export const DATA = {
       video: "",
     },
     {
+      title: "The Creative Ally",
+      href: "https://thecreativeally.com/",
+      active: true,
+      description:
+        "The Creative Ally is a marketing, PR and Communications agency that aims to reach your specific audience and maximize interaction with your brand across various digital channels.",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://thecreativeally.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/tca.svg",
+      video: "",
+    },
+    {
+      title: "Future Edge",
+      href: "https://futureedge.io/",
+      active: true,
+      description:
+        "Future edge offers founders tailored solutions that drive engagement, growth, and create lasting connections with their audience",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://futureedge.io/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/futureedge.svg",
+      video: "",
+    },
+    {
       title: "TIC waitlist",
       href: "https://waitlist.theimpactcollege.com/",
       active: true,
