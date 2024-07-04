@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "Crafting intuitive user interfaces through localhost and beyond 🚀. I enjoy transforming ideas into real products with intuitive interfaces and seamless user experiences.",
   summary:
-    "I have over 3 years of experience working as a frontend developer, and I am proficient in JavaScript & TypeScript and also in frameworks like React.js, Next.js (full-stack), Sveltekit and a bit of React Native.  I have a keen eye for design and also for accessibility and performance. I have built successful websites and SaaS for clients and some of them includes:  [AI Library](https://www.theailibrary.co/) and [Patientflow](https://www.patientflowhq.com/).",
+    "I have 4 years of experience working as a frontend developer, and I am proficient in JavaScript & TypeScript and also in frameworks like React.js, Next.js (full-stack), Sveltekit and a bit of React Native.  I have a keen eye for design and also for accessibility and performance. I have built successful websites and SaaS for clients and some of them includes:  [AI Library](https://www.theailibrary.co/) and [Patientflow](https://www.patientflowhq.com/).",
   avatarUrl: "/me.png",
   skills: [
     "React",
