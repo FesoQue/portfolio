@@ -7,9 +7,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Crafting intuitive user interfaces through localhost and beyond 🚀. I enjoy transforming ideas into real products with intuitive interfaces and seamless user experiences.",
+    "I am passionate about building and delivering world-class user experiences, that are simple and yet delightful, while delivering customer value and impact.",
   summary:
-    "I have 4 years of experience working as a frontend developer, and I am proficient in JavaScript & TypeScript and also in frameworks like React.js, Next.js (full-stack), Sveltekit and a bit of React Native.  I have a keen eye for design and also for accessibility and performance. I have built successful websites and SaaS for clients and some of them includes:  [AI Library](https://www.theailibrary.co/) and [Patientflow](https://www.patientflowhq.com/).",
+    "With over 4 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build responsive, intuitive interfaces. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
   avatarUrl: "/me.png",
   skills: [
     "React",
