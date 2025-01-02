@@ -54,7 +54,7 @@ export const DATA = {
       start: "May 2024",
       end: "Present",
       description:
-        "At FunZ, I led the development of an event management platform that has hosted notable events like TEDx, Greater Lagos, South-East Business Summit, Jeriq Hood, and various tech events. Since launch, the platform has gained over 25,000 registered users and over 200K+ visits. I also implemented analytics tools for organizers to visualize sales performance and spearheaded an international feature allowing global event hosting with multi-currency payment options.",
+        "Leading the development of an event management platform that has hosted notable events like TEDx, Greater Lagos, South-East Business Summit, Jeriq Hood, and various tech events. Since launch, the platform has gained over 25,000 registered users and over 200K+ visits. I also implemented analytics tools for organizers to visualize sales performance and spearheaded an international feature allowing global event hosting with multi-currency payment options.",
     },
     {
       company: "CluxMedia",
