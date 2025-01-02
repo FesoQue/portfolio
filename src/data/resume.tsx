@@ -46,19 +46,31 @@ export const DATA = {
   work: [
     {
       company: "FunZ",
-      href: "https://www.funzweb.com/",
+      href: "",
       badges: [],
       location: "Lagos, Nigeria",
       title: "Lead Frontend Engineer",
       logoUrl: "/funz.png",
-      start: "Sept 2023",
+      start: "May 2024",
       end: "Present",
       description:
         "At FunZ, I led the development of an event management platform that has hosted notable events like TEDx, Greater Lagos, South-East Business Summit, Jeriq Hood, and various tech events. Since launch, the platform has gained over 25,000 registered users and over 200K+ visits. I also implemented analytics tools for organizers to visualize sales performance and spearheaded an international feature allowing global event hosting with multi-currency payment options.",
     },
     {
+      company: "CluxMedia",
+      href: "",
+      badges: [],
+      location: "U.S",
+      title: "Frontend Engineer",
+      logoUrl: "/cluxmedia.jpeg",
+      start: "September 2023",
+      end: "May 2024",
+      description:
+        "At Cluxmedia, I worked on an AI platform that helps doctors create comprehensive H&P notes and assessments. By inputting the chief complaint, key patient history, and suggested diagnoses, the platform generates detailed H&P notes, assessments, and clinical plans to streamline patient care.",
+    },
+    {
       company: "Ecscorp",
-      href: "https://ecscl.com/",
+      href: "",
       badges: [],
       location: "Lagos, Nigeria",
       title: "Frontend Engineer",
@@ -70,7 +82,7 @@ export const DATA = {
     },
     {
       company: "The Creative Ally",
-      href: "https://ecscl.com/",
+      href: "",
       badges: [],
       location: "Lagos, Nigeria",
       title: "Frontend Engineer",
