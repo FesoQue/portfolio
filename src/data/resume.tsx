@@ -7,9 +7,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "I am passionate about building and delivering world-class user experiences, that are simple and yet delightful, while delivering customer value and impact.",
+    "My passion lies in building intuitive and engaging user interfaces that deliver real value to users and businesses alike.",
   summary:
-    "With over 4 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build responsive, intuitive interfaces. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
+    "With over 4 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -18,6 +18,7 @@ export const DATA = {
     "JavaScript",
     "React Native",
     "SvelteKit",
+    "Supabase",
     "Tailwind",
     "HTML",
     "CSS",
@@ -53,19 +54,19 @@ export const DATA = {
       start: "Sept 2023",
       end: "Present",
       description:
-        "Collaborating with UI/UX designers to develop the FunZ website using React.js/Next.js, making sure it is secure, fast and scalable. I am also working on improving accessibility on components to ensure compliance with WCAG standards and improve usability for users with disabilities. I am currently contributing to CI/CD processes to streamline development and deployment ",
+        "At FunZ, I led the development of an event management platform that has hosted notable events like TEDx, Greater Lagos, South-East Business Summit, Jeriq Hood, and various tech events. Since launch, the platform has gained over 25,000 registered users and over 200K+ visits. I also implemented analytics tools for organizers to visualize sales performance and spearheaded an international feature allowing global event hosting with multi-currency payment options.",
     },
     {
       company: "Ecscorp",
       href: "https://ecscl.com/",
       badges: [],
       location: "Lagos, Nigeria",
-      title: "Lead Frontend Engineer",
+      title: "Frontend Engineer",
       logoUrl: "/ecs.png",
       start: "July 2022",
       end: "August 2023",
       description:
-        "Led the migration of a relatively old e-commerce codebase from React 16 with outdated dependencies to React 18. Managed the entire migration process, including code refactoring, dependency updates, and ensuring compatibility with the latest React ecosystem.I also conducted cross-browser testing using BrowserStack to ensure consistent performance and appearance across major browsers.",
+        "At Ecscorp, I worked on migration of an outdated e-commerce codebase from React 16 to React 18, overseeing code refactoring, dependency updates, and compatibility with the latest React ecosystem. I also spearheaded the headless integration with Magento for seamless inventory, cart, and order management, along with implementing robust internationalization features.",
     },
     {
       company: "The Creative Ally",
@@ -77,7 +78,7 @@ export const DATA = {
       start: "March 2021",
       end: "May 2022",
       description:
-        "Worked closely with UI/UX designer to build beautiful and usable user interface",
+        "At TCA, i worked with other team members to build a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
     },
   ],
 
@@ -117,37 +118,36 @@ export const DATA = {
       video: "",
     },
     {
-      title: "PatientflowHQ",
-      href: "https://www.patientflowhq.com/",
+      title: "PortfolioTab",
+      href: "https://www.portfoliotab.io/",
       active: true,
       description:
-        "PatientflowHQ is an AI Platform that enables comprehensive H&P Notes with billable diagnosis and case advisory in record time.",
+        "PortfolioTab is the #1 career portfolio platform for students, freelancers, and working professionals. ",
       technologies: [],
       links: [
         {
           type: "Website",
-          href: "https://www.patientflowhq.com/",
+          href: "https://www.portfoliotab.io/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/patientflow.svg",
+      image: "/portfoliotab.svg",
       video: "",
     },
     {
-      title: "Career impact Now",
-      href: "https://careerimpactnow.com/",
+      title: "Africa AI Fest",
+      href: "https://www.africaaifest.com/",
       active: true,
-      description:
-        "Career Impact Now is a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
+      description: "Africa's Foremost Artificial Intelligence Event",
       technologies: [],
       links: [
         {
           type: "Website",
-          href: "https://careerimpactnow.com/",
+          href: "https://www.africaaifest.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/cin.webp",
+      image: "/aaf.svg",
       video: "",
     },
     {
@@ -168,56 +168,23 @@ export const DATA = {
       video: "",
     },
     {
-      title: "The Creative Ally",
-      href: "https://thecreativeally.com/",
+      title: "Career impact Now",
+      href: "https://careerimpactnow.com/",
       active: true,
       description:
-        "The Creative Ally is a marketing, PR and Communications agency that aims to reach your specific audience and maximize interaction with your brand across various digital channels.",
+        "Career Impact Now is a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
       technologies: [],
       links: [
         {
           type: "Website",
-          href: "https://thecreativeally.com/",
+          href: "https://careerimpactnow.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/tca.svg",
+      image: "/cin.webp",
       video: "",
     },
-    {
-      title: "Future Edge",
-      href: "https://futureedge.io/",
-      active: true,
-      description:
-        "Future edge offers founders tailored solutions that drive engagement, growth, and create lasting connections with their audience",
-      technologies: [],
-      links: [
-        {
-          type: "Website",
-          href: "https://futureedge.io/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/futureedge.svg",
-      video: "",
-    },
-    {
-      title: "TIC waitlist",
-      href: "https://waitlist.theimpactcollege.com/",
-      active: true,
-      description:
-        "Waitlist page for a course platform designed to revolutionize online education.",
-      technologies: [],
-      links: [
-        {
-          type: "Website",
-          href: "https://waitlist.theimpactcollege.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/tic-waitlist.svg",
-      video: "",
-    },
+
     // {
     //   title: "Magic UI",
     //   href: "https://magicui.design",
