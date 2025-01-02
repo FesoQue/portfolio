@@ -54,9 +54,13 @@ export default function Page() {
               </li>
               <li>
                 <BlurFade>
-                  <Link href={"/#contact"} className="underline">
-                    Contact
-                  </Link>
+                  <a
+                    download
+                    href={"/Adefeso-Qudus-Resume.pdf"}
+                    className="underline"
+                  >
+                    View Resume
+                  </a>
                 </BlurFade>
               </li>
             </ul>
