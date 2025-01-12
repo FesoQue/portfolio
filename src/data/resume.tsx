@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "My passion lies in building intuitive and engaging user interfaces that deliver real value to users and businesses alike.",
   summary:
-    "With over 4 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
+    "With 5 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
   avatarUrl: "/me.png",
   skills: [
     "React",
