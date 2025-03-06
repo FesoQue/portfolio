@@ -56,7 +56,7 @@ export default function Page() {
                 <BlurFade>
                   <a
                     download
-                    href={"/Adefeso-Qudus-Resume.pdf"}
+                    href={"/Qudus-Adefeso-CV.pdf"}
                     className="underline"
                   >
                     View Resume

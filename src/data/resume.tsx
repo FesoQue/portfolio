@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "My passion lies in building intuitive and engaging user interfaces that deliver real value to users and businesses alike.",
   summary:
-    "With 5 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
+    "With over 4 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Multi-Tenancy, Monolithic-Frontend Architecture, Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -45,7 +45,7 @@ export const DATA = {
 
   work: [
     {
-      company: "FunZ",
+      company: "Funzweb Finance",
       href: "",
       badges: [],
       location: "Lagos, Nigeria",
@@ -54,43 +54,30 @@ export const DATA = {
       start: "May 2024",
       end: "Present",
       description:
-        "Leading the development of an event management platform that has hosted notable events like TEDx, Greater Lagos, South-East Business Summit, Jeriq Hood, and various tech events. Since launch, the platform has gained over 25,000 registered users and over 200K+ visits. I also implemented analytics tools for organizers to visualize sales performance and spearheaded an international feature allowing global event hosting with multi-currency payment options.",
+        "Funzweb provides both innovative digital banking solutions and also an event management platform.",
     },
     {
-      company: "CluxMedia",
+      company: "PatientflowHQ",
       href: "",
       badges: [],
       location: "U.S",
       title: "Frontend Engineer",
-      logoUrl: "/cluxmedia.jpeg",
+      logoUrl: "/patientflow.jpeg",
       start: "September 2023",
       end: "May 2024",
       description:
-        "At Cluxmedia, I worked on an AI platform that helps doctors create comprehensive H&P notes and assessments. By inputting the chief complaint, key patient history, and suggested diagnoses, the platform generates detailed H&P notes, assessments, and clinical plans to streamline patient care.",
+        "PatientflowHQ is an AI platform that assists doctors in generating comprehensive H&P notes and assessments. ",
     },
     {
-      company: "Ecscorp",
+      company: "Ecscorp & Company",
       href: "",
       badges: [],
       location: "Lagos, Nigeria",
       title: "Frontend Engineer",
       logoUrl: "/ecs.png",
-      start: "July 2022",
-      end: "August 2023",
-      description:
-        "At Ecscorp, I worked on migration of an outdated e-commerce codebase from React 16 to React 18, overseeing code refactoring, dependency updates, and compatibility with the latest React ecosystem. I also spearheaded the headless integration with Magento for seamless inventory, cart, and order management, along with implementing robust internationalization features.",
-    },
-    {
-      company: "The Creative Ally",
-      href: "",
-      badges: [],
-      location: "Lagos, Nigeria",
-      title: "Frontend Engineer",
-      logoUrl: "/creative-ally.svg",
       start: "March 2021",
-      end: "May 2022",
-      description:
-        "At TCA, i worked with other team members to build a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
+      end: "August 2023",
+      description: "",
     },
   ],
 
@@ -127,6 +114,40 @@ export const DATA = {
         },
       ],
       image: "/ailibrary.svg",
+      video: "",
+    },
+    {
+      title: "Startups Villa",
+      href: "https://www.startupsvilla.com/",
+      active: true,
+      description:
+        "Discover over 3,000+ startups redefining Nigeria’s business landscape.",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.startupsvilla.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/sv.svg",
+      video: "",
+    },
+    {
+      title: "The Impact College",
+      href: "https://www.theimpactcollege.com/",
+      active: true,
+      description:
+        "TIC helps you gain world-class financial analysis skills & mentorship from industry leaders",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.theimpactcollege.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/tic.svg",
       video: "",
     },
     {
