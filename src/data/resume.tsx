@@ -117,6 +117,22 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Future Edge",
+      href: "https://futureedge.io/",
+      active: true,
+      description: "Future  Edge helps you  connect your brand to customers",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://futureedge.io/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/futureedge.svg",
+      video: "",
+    },
+    {
       title: "Startups Villa",
       href: "https://www.startupsvilla.com/",
       active: true,
