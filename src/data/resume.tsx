@@ -136,23 +136,23 @@ export const DATA = {
       image: "/futureedge.svg",
       video: "",
     },
-    {
-      title: "Startups Villa",
-      href: "https://www.startupsvilla.com/",
-      active: true,
-      description:
-        "Discover over 3,000+ startups redefining Nigeria’s business landscape.",
-      technologies: [],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.startupsvilla.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/sv.svg",
-      video: "",
-    },
+    // {
+    //   title: "Startups Villa",
+    //   href: "https://www.startupsvilla.com/",
+    //   active: true,
+    //   description:
+    //     "Discover over 3,000+ startups redefining Nigeria’s business landscape.",
+    //   technologies: [],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://www.startupsvilla.com/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/sv.svg",
+    //   video: "",
+    // },
     {
       title: "The Impact College",
       href: "https://www.theimpactcollege.com/",
@@ -168,23 +168,6 @@ export const DATA = {
         },
       ],
       image: "/tic.svg",
-      video: "",
-    },
-    {
-      title: "PortfolioTab",
-      href: "https://www.portfoliotab.io/",
-      active: true,
-      description:
-        "PortfolioTab is the #1 career portfolio platform for students, freelancers, and working professionals. ",
-      technologies: [],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.portfoliotab.io/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/portfoliotab.svg",
       video: "",
     },
     {
@@ -204,6 +187,24 @@ export const DATA = {
       video: "",
     },
     {
+      title: "PortfolioTab",
+      href: "https://www.portfoliotab.io/",
+      active: true,
+      description:
+        "PortfolioTab is the #1 career portfolio platform for students, freelancers, and working professionals. ",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.portfoliotab.io/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/portfoliotab.svg",
+      video: "",
+    },
+
+    {
       title: "APNI",
       href: "https://www.apni.ie/",
       active: true,
@@ -220,55 +221,22 @@ export const DATA = {
       image: "/apni.webp",
       video: "",
     },
-    {
-      title: "Career impact Now",
-      href: "https://careerimpactnow.com/",
-      active: true,
-      description:
-        "Career Impact Now is a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
-      technologies: [],
-      links: [
-        {
-          type: "Website",
-          href: "https://careerimpactnow.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/cin.webp",
-      video: "",
-    },
-
     // {
-    //   title: "Magic UI",
-    //   href: "https://magicui.design",
-    //   dates: "June 2023 - Present",
+    //   title: "Career impact Now",
+    //   href: "https://careerimpactnow.com/",
     //   active: true,
     //   description:
-    //     "Designed, developed and sold animated UI components for developers.",
-    //   technologies: [
-    //     "Next.js",
-    //     "Typescript",
-    //     "PostgreSQL",
-    //     "Prisma",
-    //     "TailwindCSS",
-    //     "Stripe",
-    //     "Shadcn UI",
-    //     "Magic UI",
-    //   ],
+    //     "Career Impact Now is a platform that provide students with an opportunity to meet and network with potential employers, learn about job and internship opportunities",
+    //   technologies: [],
     //   links: [
     //     {
     //       type: "Website",
-    //       href: "https://magicui.design",
+    //       href: "https://careerimpactnow.com/",
     //       icon: <Icons.globe className="size-3" />,
     //     },
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/magicuidesign/magicui",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
     //   ],
-    //   image: "",
-    //   video: "https://cdn.magicui.design/bento-grid.mp4",
+    //   image: "/cin.webp",
+    //   video: "",
     // },
   ],
 } as const;
