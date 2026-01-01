@@ -104,6 +104,23 @@ export const DATA = {
       video: "",
     },
     {
+      title: "The AI Colony",
+      href: "https://www.theaicolony.com/",
+      active: true,
+      description:
+        "The AI Colony helps AI, Tech, and SaaS brands scale faster through performance-led media, strategic consulting, and high-impact storytelling.",
+      technologies: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.theaicolony.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/aicolony-og.png",
+      video: "",
+    },
+    {
       title: "AI Library",
       href: "https://www.theailibrary.co/",
       active: true,
@@ -120,6 +137,7 @@ export const DATA = {
       image: "/ailib-og.png",
       video: "",
     },
+
     {
       title: "Future Edge",
       href: "https://futureedge.io/",
