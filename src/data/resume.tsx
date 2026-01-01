@@ -7,9 +7,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "My passion lies in building intuitive and engaging user interfaces that deliver real value to users and businesses alike.",
+    "My passion lies in building intuitive and engaging softwares that deliver real value to users and businesses alike.",
   summary:
-    "With over 5 years of experience in frontend development, I have worked with a range of modern frontend frameworks and technologies (React, Nextjs, Svelte, React Native) to build intuitive and engaging user interfaces that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Multi-Tenancy, Monolithic-Frontend Architecture, Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
+    "With over 5 years of experience in software development, I have worked with a range of modern software frameworks and technologies (React, Nextjs, Nodejs, Expressjs, MongoDB, PostgreSQL, React Native, Svelte, React Native) to build intuitive softwares that not only captivate but drive meaningful impact. I've been involved in projects that implement best practices like Multi-Tenancy, Monolithic-Frontend Architecture, Micro-Frontend Architecture, UI Component Libraries, and UX Design Systems. I enjoy collaborating with cross-functional teams and contributing to technical discussions that shape the product’s direction. My colleagues and peers recognize me as a strong communicator, team player, and someone always willing to help mentor and coach others.",
   avatarUrl: "/qudus.png",
   skills: [
     "React",

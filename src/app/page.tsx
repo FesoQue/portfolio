@@ -35,7 +35,7 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none mb-2"
                 yOffset={8}
-                text={`Frontend Developer`}
+                text={`Software Developer`}
               />
               <BlurFadeText
                 className="max-w-[600px] md:text-xl"
