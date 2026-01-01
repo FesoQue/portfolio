@@ -117,7 +117,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/ailibrary.svg",
+      image: "/ailib-og.png",
       video: "",
     },
     {
